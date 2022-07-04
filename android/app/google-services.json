@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "251855909245",
+    "project_id": "foodolist",
+    "storage_bucket": "foodolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251855909245:android:fe9352a51116de65751c14",
+        "android_client_info": {
+          "package_name": "com.example.foodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251855909245-1gvsup07ppcnduqplb1n20n2sc39c3vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmD9EGHlDfIPic0ifmdsXVaKaTp7uSE9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251855909245-1gvsup07ppcnduqplb1n20n2sc39c3vf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251855909245-sqm4osf2rqelj9r3fbcb5ujapvrhu9bg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodolist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
